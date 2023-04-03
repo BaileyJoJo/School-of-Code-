@@ -1,0 +1,24 @@
+export const roadmap = [
+    {
+      topic: "Array methods in JavaScript",
+      haveLearned: false,
+      why: "Useful for simplifying common operations involving arrays",
+    },
+    {
+      topic: "Cooking the perfect jacket potato",
+      haveLearned: true,
+      why: "I refuse to elaborate",
+    },
+    {
+      topic: "Centering an element vertically and horizontally with CSS",
+      haveLearned: false,
+      why: "Helps to build effective, aesthetically pleasing UIs",
+    },
+    {
+      topic: "Cloud computing e.g. AWS",
+      haveLearned: false,
+      why: "Used by lots of organisations to build reliable, highly available solutions",
+    },
+  ]; 
+  console.log (roadmap)
+  
